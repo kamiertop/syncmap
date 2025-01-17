@@ -1,0 +1,1 @@
+Golang SyncMap With Generic
